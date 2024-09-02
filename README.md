@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Cade Krueger
-- 👀 I’m interested in Programming, Game Development, and much more!
+- 👀 I’m proficient in Programming, Data Analytics, and much more!
 - 🌱 I’m currently learning React (MERN stack)
 - 💞️ I’m looking to find a career where I can do what I love!
-- 📫 How to reach me Email: cadeak22@outlook.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can backflip!
+- 📫 How to reach me
+      Email: cadeak22@gmail.com
+      LinkedIn: https://www.linkedin.com/in/cadeak/
 
 <!---
 CadeAnthonyKrueger/CadeAnthonyKrueger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
