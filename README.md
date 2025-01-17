@@ -25,6 +25,15 @@
 
 ### Languages
 
+![Java - Python - C# - Ruby - Javascript - HTML - CSS - R - SQL](https://github.com/user-attachments/assets/54fc5aa7-f67a-4338-bb15-0be97c4d7ea4)
+
+### Frameworks
+
+
+
+
+
+
 
 
 
