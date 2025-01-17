@@ -4,18 +4,18 @@
   <div style="display: flex;">
     <strong>Check out my latest project: </strong>
     <code>https://github.com/CadeAnthonyKrueger/BattleMaster-AI-Pokemon-Edition</code>
-    <a href="https://www.google.com/">-></a>
+    <a href="https://github.com/CadeAnthonyKrueger/BattleMaster-AI-Pokemon-Edition">↗</a>
   </div> 
   <div>&nbsp;</div>
   <div style="display: flex; margin: 10px">
     <img src="https://github.com/user-attachments/assets/629ebfe8-a0d4-4b51-8913-81b08b10e7be" alt="LinkedIn:" width="18">
     <code>https://www.linkedin.com/in/cadeak</code>
-    <a href="https://www.google.com/">-></a>
+    <a href="https://www.linkedin.com/in/cadeak">↗</a>
   </div>
   <div style="display: flex;">
     <img src="https://github.com/user-attachments/assets/feb072b0-3bc9-4b23-921c-7a5eeaea7166" alt="CK:" width="22">
     <code>https://cadekrueger.com</code>
-    <a href="https://www.google.com/">-></a>
+    <a href="https://cadekrueger.com">↗</a>
   </div>
 </div>
 
