@@ -24,10 +24,33 @@
 ![Full Stack Development - Data Analysis & Visualization - Machine Learning](https://github.com/user-attachments/assets/1c014d4c-ece9-4c29-9feb-079b35065b3b)
 
 ### Languages
+<div>&nbsp;</div>
 
 ![Java - Python - C# - Ruby - Javascript - HTML - CSS - R - SQL](https://github.com/user-attachments/assets/54fc5aa7-f67a-4338-bb15-0be97c4d7ea4)
 
+<div>&nbsp;</div>
+
 ### Frameworks
+<div>&nbsp;</div>
+
+![React - Node.js - Express.js - Electron.js - PyTorch](https://github.com/user-attachments/assets/3e952eb3-57c1-4eda-bf7e-666e555c3429)
+
+<div>&nbsp;</div>
+
+### Databases
+<div>&nbsp;</div>
+
+![MongoDB - SQL Lite - Access](https://github.com/user-attachments/assets/2bf7e3d2-4528-4a09-9c04-646607c0f7b3)
+
+
+<div>&nbsp;</div>
+
+### Data Tools
+<div>&nbsp;</div>
+
+![Tableau - Excel - PowerBI - MatPlotLib](https://github.com/user-attachments/assets/d5696590-e074-44bc-a1ba-7db49b7407f7)
+
+
 
 
 
